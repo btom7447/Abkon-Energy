@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/abkon-energy/static/css/main.cb3fe2b2.css",
-    "main.js": "/abkon-energy/static/js/main.974829f2.js",
+    "main.css": "/abkon-energy/static/css/main.dedb6acd.css",
+    "main.js": "/abkon-energy/static/js/main.9330bfc1.js",
     "static/js/453.3de3ea0b.chunk.js": "/abkon-energy/static/js/453.3de3ea0b.chunk.js",
     "index.html": "/abkon-energy/index.html",
-    "main.cb3fe2b2.css.map": "/abkon-energy/static/css/main.cb3fe2b2.css.map",
-    "main.974829f2.js.map": "/abkon-energy/static/js/main.974829f2.js.map",
+    "main.dedb6acd.css.map": "/abkon-energy/static/css/main.dedb6acd.css.map",
+    "main.9330bfc1.js.map": "/abkon-energy/static/js/main.9330bfc1.js.map",
     "453.3de3ea0b.chunk.js.map": "/abkon-energy/static/js/453.3de3ea0b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb3fe2b2.css",
-    "static/js/main.974829f2.js"
+    "static/css/main.dedb6acd.css",
+    "static/js/main.9330bfc1.js"
   ]
 }
